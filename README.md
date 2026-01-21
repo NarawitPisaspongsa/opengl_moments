@@ -32,21 +32,11 @@ Plaintext
 
 ⚡ QUICK START ⚡
 
-    CLONE IT 📥 - git clone https://github.com/YourUsername/TheAlphaEngine.git
+    CLONE IT 📥 - git clone https://github.com/NarawitPisaspongsa/opengl_moments.git
 
     BUILD IT 🔨 - Smash that CMake button until the screen glows! 🌟
 
     RUN IT 🚀 - Execute the binary and witness the GLORY of a single triangle! 📐🔥
-
-🛠️ CONTRIBUTE OR ELSE 🛠️
-
-Got code? 💻 Send a PR! 📥 If your code is slow, we will roast it in the comments. 🔥 If it’s fast, you get the GOLDEN PIXEL award. 🥇✨
-
-    Step 1: Fork the repo 🔱
-
-    Step 2: Write some CRUNCHY code 🍬
-
-    Step 3: Witness your name in the CONTRIBUTORS.md hall of fame! 🏛️👑
 
 📜 LICENSE 📜
 
