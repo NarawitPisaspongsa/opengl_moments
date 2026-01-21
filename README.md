@@ -1,4 +1,4 @@
-🚀 ULTIMATE GRAPHICS ENGINE 2026 🚀
+## 🚀 ULTIMATE GRAPHICS ENGINE 2026 🚀
 🔥 OVERVIEW 🔥
 
 Welcome to the most EPIC ⚡ and BLAZINGLY FAST 🏎️ graphics project you've ever seen! We are talking MAXIMUM FPS 📈 and ZERO LATENCY 📉. If you aren't rendering at 4K 240FPS, are you even living? 🤨
@@ -19,11 +19,16 @@ This project uses the legendary GLFW for windowing and GLAD to talk directly to 
 Look at this beautiful structure! 🌲 It’s so organized it’s ILLEGAL. 👮‍♂️🚫
 Plaintext
 
+└───main.cpp 🧠 (THE BIG BRAIN LOGIC)
+
 ├───deps
+
 │   ├───glad 💎 (PURE SHINY LOADERS)
+
 │   └───glfw 🚀 (WARP SPEED WINDOWING)
+
 └───src
-    └───main.cpp 🧠 (THE BIG BRAIN LOGIC)
+
 
 ⚡ QUICK START ⚡
 
